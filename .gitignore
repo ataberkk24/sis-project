@@ -1,0 +1,20 @@
+# Build output
+build/
+cmake-build-*/
+*.o
+*.a
+*.so
+/sis-app
+
+# Environment (real secrets stay local; commit .env.example only)
+.env
+
+# Logs
+logs/
+*.log
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
