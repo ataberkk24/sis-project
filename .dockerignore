@@ -1,0 +1,10 @@
+.git
+.github
+build/
+cmake-build-*/
+logs/
+*.log
+.env
+*.md
+scripts/
+tests/
